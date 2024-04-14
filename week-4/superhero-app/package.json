@@ -1,0 +1,13 @@
+{
+  "name": "superhero-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --use_strict test/superhero.spec.js",
+    "start": "node --use_strict src/index.js"
+  },
+  "keywords": [],
+  "author": "Meher Salim",
+  "license": "ISC"
+}
