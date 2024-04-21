@@ -1,0 +1,15 @@
+{
+  "name": "pie-baker",
+  "version": "1.0.0",
+  "description": "run test script as jest",
+  "main": "pie.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Meher Salim",
+  "license": "ISC"
+}
